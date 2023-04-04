@@ -1,0 +1,25 @@
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\Programador Web .NET\Ejercicios\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\Programador Web .NET\Ejercicios\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\Programador Web .NET\Ejercicios\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\Programador Web .NET\Ejercicios\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\Programador Web .NET\Ejercicios\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\SISTEMAS BIOS 2022\OBLIGATORIOS\4 DE JULIO ¨QUINELA¨\ObligatorioPOO12022 Quinela v2\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\PRIMER AÑO\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\PRIMER AÑO\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\PRIMER AÑO\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.exe
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\PRIMER AÑO\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\bin\Debug\ObligatorioPOO12022 Quinela.pdb
+C:\Users\Usuario\OneDrive\Desktop\OBLIGATORIOS\PRIMER AÑO\ObligatorioPOO12022 Quinela\ObligatorioPOO12022 Quinela\obj\x86\Debug\ObligatorioPOO12022 Quinela.csprojResolveAssemblyReference.cache
